@@ -1,0 +1,25 @@
+/* body {
+    background-color: #ccc;
+} */
+
+.auth {
+    background-color: white;
+    border: 1px solid #bbb;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 10%;
+    width: 40%;
+}
+
+.col h1, .col p {
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+
+.logout {
+    cursor: pointer;
+    color: red;
+}
